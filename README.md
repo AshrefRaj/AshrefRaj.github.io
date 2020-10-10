@@ -9,7 +9,8 @@ Voila!
 
 INSTRUCTIONS:
 1) index.html is where it all begins
-2) In each html file, change the placeholder "AAA" to your loved one's name.
+2) In each html file, change the placeholders to your loved one's name.
+      Note: Placeholders will be enclosed within '*' symbol. ex: *name*
 3) In cake.html, add audio and change svg tag.
      i) Goto https://danmarshall.github.io/google-font-to-svg-path/
     ii) Convert text to svg and replace it. Set font size to 30 or below.
